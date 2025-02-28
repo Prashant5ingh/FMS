@@ -1,0 +1,47 @@
+#fname{
+    border: 5px solid rgb(191, 137, 137);
+    width: 45%;
+    margin-top: 80px;
+    border-radius: 5px;
+    padding: 50px;
+    box-shadow: 5px 10px rgb(201, 188, 188);
+}
+.container{
+  display: flex;
+  /* justify-content: center; */
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 190%;
+    /* float: left; */
+    /* width: 570px; */
+    margin-left: -180px;
+    /* display: inline-block; */
+
+  }
+
+
+
+
+  
+  td, th {
+    color: rgb(0, 0, 0);
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #cdc7c7;
+  }
+
+.table-bordered {
+  margin-left: 30px;
+  width: 95%;
+  color: black;
+}
+/* button{
+  color: black;
+} */

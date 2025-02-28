@@ -1,0 +1,90 @@
+.button{
+height: 1000px;
+width: 500px;
+}
+
+.container{
+background-color: rgb(123, 123, 237);
+height: 100px;
+width: 300px;
+border-radius: 15px;
+margin-top: 450px;
+margin-left: 950px;
+}
+.yes{
+background-color: rgb(66, 69, 152);
+}
+
+.thead{
+    background-color:cadetblue;
+
+}
+.tbody{
+    background-color: beige;
+}
+
+.t1{
+    background-color: rgb(226, 229, 229);
+}
+
+.t2{
+    background-color: beige;
+}
+
+.d1{
+    color: goldenrod;
+}
+
+
+/* Tanuja */
+
+.bdy{
+    border: 1px solid rgb(57, 57, 109);
+    height: 250px; ;
+    width: 300px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    font-style: bold;
+    font-size: small;
+    background-color: rgb(96, 172, 210);
+    color: white;
+    box-shadow: 10px 10px 10px gray;
+    opacity: 10px;
+    
+    }
+    input{
+        border: 1px solid black;
+        border-radius: 5px;
+        
+    }
+    .device{
+        float: left;
+        padding-left: 10px;
+    }
+    .button{
+        background-color: rgb(43, 214, 214);
+        border-radius: 5px;
+        padding:5px 10px;
+        border: 1px solid ;
+        box-shadow: 2px 5px 5px;
+        
+        
+    
+    }
+    .fa{
+        font-size: 15px;
+        background-color: rgb(92, 154, 190);
+    }
+    .device{
+        
+        font-size: medium;
+        text-align: center;
+    
+        
+    }
+    #frow{
+        background-color: rgb(167, 198, 212);
+    }
+    td{
+        border-right: 1px solid white;
+    }

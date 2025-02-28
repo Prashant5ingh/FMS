@@ -1,0 +1,48 @@
+.bdy{
+    border: 1px solid rgb(57, 57, 109);
+    height: 250px; ;
+    width: 300px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    font-style: bold;
+    font-size: small;
+    background-color: rgb(96, 172, 210);
+    color: white;
+    box-shadow: 10px 10px 10px gray;
+    opacity: 10px;
+    
+    }
+    input{
+        border: 1px solid black;
+        border-radius: 5px;
+        
+    }
+    .device{
+        float: left;
+        padding-left: 10px;
+    }
+    .b1{
+        background-color: rgb(43, 214, 214);
+        border-radius: 5px;
+        padding:5px 10px;
+        border: 1px solid ;
+        box-shadow: 2px 5px 5px;
+    
+    }
+    .fa{
+        font-size: 15px;
+        background-color: rgb(92, 154, 190);
+    }
+    .device{
+        
+        font-size: medium;
+        text-align: center;
+    
+        
+    }
+    #frow{
+        background-color: rgb(167, 198, 212);
+    }
+    td{
+        border-right: 1px solid white;
+    }

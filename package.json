@@ -1,0 +1,19 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json --port 8765 --middlewares index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "bootstrap": "^5.2.3",
+    "json-server": "^0.16.1",
+    "react-router-dom": "^6.6.2"
+  }
+}

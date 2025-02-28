@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "status": "Deactivated",
+      "username": "admin1",
+      "role": "operator",
+      "password": "admin1",
+      "security_question": "What is your favorite sport?",
+      "security_answer": "Kabadi",
+      "id": 1
+    },
+    {
+      "status": "Activated",
+      "username": "abcd",
+      "role": "Admin",
+      "password": "aaaaaa",
+      "security_question": "place",
+      "security_answer": "h",
+      "id": 2
+    },
+    {
+      "status": "Activated",
+      "username": "abcd",
+      "role": "Admin",
+      "password": "aaaaaa",
+      "security_question": "place",
+      "security_answer": "h",
+      "id": 3
+    },
+    {
+      "status": "Activated",
+      "username": "abcd",
+      "role": "Admin",
+      "password": "aaaaaa",
+      "security_question": "place",
+      "security_answer": "h",
+      "id": 4
+    },
+    {
+      "status": "Deactivated",
+      "username": "abcd",
+      "role": "Admin",
+      "password": "aaaaaa",
+      "security_question": "place",
+      "security_answer": "h",
+      "id": 5
+    },
+    {
+      "status": "Deactivated",
+      "username": "primeprashant38881@gmail.com",
+      "role": "Admin",
+      "password": "aaaaaa",
+      "security_question": "place",
+      "security_answer": "sadsadsa",
+      "id": 6
+    },
+    {
+      "status": "Deactivated",
+      "username": "primeprashant38881@gmail.com",
+      "role": "Admin",
+      "password": "aaaaaa",
+      "security_question": "place",
+      "security_answer": "sadsadsa",
+      "id": 7
+    },
+    {
+      "status": "Deactivated",
+      "username": "ooooo",
+      "role": "Operator",
+      "password": "iiiiii",
+      "security_question": "pet",
+      "security_answer": "dog",
+      "id": 8
+    }
+  ],
+  "devices": [
+    {
+      "device_serial": "ABSC789874",
+      "device_ip": "123.023.123.12",
+      "device_type": "Router",
+      "device_status": "Activated",
+      "username": "operator1",
+      "id": 5
+    },
+    {
+      "device_serial": "ABSC789874",
+      "device_ip": "123.023.123.12",
+      "device_type": "Router",
+      "device_status": "Activated",
+      "username": "operator1",
+      "id": 6
+    }
+  ]
+}
